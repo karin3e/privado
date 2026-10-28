@@ -1,0 +1,13 @@
+ComfortStudy | Para Mo
+
+Conteúdo do ZIP:
+- index.html: estrutura e textos
+- style.css: estilo visual roxo e azul, responsivo
+- script.js: caixa surpresa, mensagens interativas e efeitos
+
+Como testar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie os três arquivos para um repositório GitHub e ative GitHub Pages.
+
+A fonte externa pode precisar de internet; o site continua usando fontes alternativas caso ela não carregue.
